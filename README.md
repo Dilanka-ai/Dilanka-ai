@@ -8,14 +8,22 @@
 <td width="50%" align="left">
 
 - 👀 I’m interested in electronics & robotics
-- 🌱 I’m currently learning electronics & telecommunication engineering technology
+- 🌱 I’m currently learning C++,Pyhthon
 - 💞️ I’m looking to collaborate on learn more things
-- 📫 How to reach me Dilanka.amdh@gmail.com
+- 📫 How to reach me amdh.aththanayaka@gmail.com
 
-<!---
-Dilanka/Dilanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+</td>
+<td width="30%" align="right">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -38,7 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="@Wolo_solutions" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/kaveendinethma" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Dilanka Aththanayaka" height="50" width="50" /></a>
 <a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dilanka Hashan" height="50" width="50" /></a>
 </p>
